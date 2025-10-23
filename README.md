@@ -116,3 +116,10 @@ El modelo utiliza 14 variables clínicas:
 - Pendiente del segmento ST
 - Número de vasos principales
 - Resultado de talasemia
+
+
+**Integrantes:**
+- Isaac Echeverri Ospina
+- Samuel Mauricio Arango Arias
+- Juan Felipe Fernández Grajales
+
